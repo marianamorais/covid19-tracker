@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+
+.app_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
